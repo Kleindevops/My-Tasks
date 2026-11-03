@@ -1,0 +1,22 @@
+[
+  {
+    "id": "fb1926bd",
+    "title": "personalwebs.qzz.io",
+    "dueDate": "2027-04-03",
+    "warnDaysBefore": 15,
+    "remark": "检查域名注册商控制台并续费",
+    "customMessage": "检查域名注册商控制台并续费",
+    "isEnabled": true,
+    "lastCheckedDate": ""
+  },
+  {
+    "id": "30316d18",
+    "title": "kleingo.dpdns.org",
+    "dueDate": "2027-11-24",
+    "warnDaysBefore": 10,
+    "remark": "更新服务端证书并重新部署",
+    "customMessage": "更新服务端证书并重新部署",
+    "isEnabled": true,
+    "lastCheckedDate": ""
+  }
+]
